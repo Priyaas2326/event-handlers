@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(26, 22, 22);
+}
+
+.container {
+    width: 498px;
+    height: 250px;
+    background-color: white;
+    margin-top: 365px;
+    margin-left: 565px;
+    padding-left: 32px;
+    padding-bottom: 24px;
+    padding-top: 19px;
+}
+
+#email
+{
+    width:300px;
+    margin-top: 6px;
+}
+
+#messageemail {
+    margin-top: 6px;
+}
+#pwd
+{
+    width:300px;
+    margin-top: 6px;
+}
+
+#messagepassword {
+    margin-top: 10px;
+}
+
+#btn
+{
+    width:128px;
+    height: 27px;
+    margin-top: 16px;
+}
